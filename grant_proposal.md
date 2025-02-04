@@ -16,7 +16,7 @@ MindGames is a decentralized game-theory platform designed to innovate fair gami
 Current game-theory education and research tools often lack engagement, interactivity, and real-world applicability, leading to limited understanding and retention of game-theory concepts. Additionally, existing game-theory games platforms are typically centralized, opaque, and vulnerable to manipulation, which can undermine the integrity of research and academic applications.
 
 ## 5. Proposed Solution
-The proposed blockchain-based game-theory games platform aims to address these challenges by providing a secure, transparent, and decentralized environment for game-theory education and research, while also promoting fun and interactive social interactions. By leveraging blockchain technology, the platform can ensure the integrity and immutability of game data, enable secure and transparent multiplayer interactions, and provide a unique tool for researchers, educators, and students to explore and learn about strategic decision-making.
+The proposed blockchain-based platform aims to address these challenges by providing a secure, transparent, and decentralized environment for game-theory education and research, **while also promoting fun and interactive social interactions**. By leveraging blockchain technology, the platform can ensure the integrity and immutability of game data, enable secure and transparent multiplayer interactions, and provide a unique tool for researchers, educators, and students to explore and learn about strategic decision-making.
 
 ### Key Features
 * **Multi-platform accessibility**: MindGames can be accessed across various platforms (mobile + web) by using embedded smart accounts on Xion.
@@ -26,7 +26,7 @@ The proposed blockchain-based game-theory games platform aims to address these c
 * **```GameLifecycle```**: A modular and extensible method for writing (game-theory) game logic, allowing for seamless integration and customization of games.
 
 ### Bonus
-We plan to launch an NFT collection (free mint) as part of the platform launch where players can earn the NFTs simply by playing with friends on the MindGames platform. The art for the collection is ready to go but we want to create a valid launch plan and use it as an incentive for players to onboard. Art previews can be seen in [this X account](https://x.com/XionSenshi) and some details can be found in the [associated Gitbook](https://senshi.mindsetlabs.io).
+We plan to launch an NFT collection (free mint) as part of the MindGames platform launch where players can earn the NFTs simply by playing MindGames with friends. The art for the collection is ready to go but we want to create a valid launch plan and use it as an incentive for players to onboard. Art previews can be seen in [this X account](https://x.com/XionSenshi) and some details can be found in the [associated Gitbook](https://senshi.mindsetlabs.io).
 
 
 ## 6. Project Goals and Objectives
