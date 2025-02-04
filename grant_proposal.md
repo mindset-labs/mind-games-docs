@@ -1,4 +1,4 @@
-# 1. MindGames: Grant Proposal <img src="https://pbs.twimg.com/profile_images/1867370407772168192/3T8R922l_400x400.jpg" align="right" width="100">
+# MindGames: Grant Proposal <img src="https://pbs.twimg.com/profile_images/1867370407772168192/3T8R922l_400x400.jpg" align="right" width="100">
 
 ## 2. Applicant Information
 - **Organization/Individual Name**: Mindset Labs  
